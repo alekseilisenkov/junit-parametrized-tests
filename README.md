@@ -1,6 +1,6 @@
 # Example usage of JUnit abilities in point of parametrized
 
-##Annotations:
+## Annotations:
 - @ValueSource
 - @CsvSource
 - @EnumSource
